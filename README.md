@@ -24,7 +24,7 @@ This project is a web application that allows users to upload CSV files, view th
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/csv-upload-backend.git
+   git clone https://github.com/sfaizal88/csv-upload.git
 
 ### Backend
 
