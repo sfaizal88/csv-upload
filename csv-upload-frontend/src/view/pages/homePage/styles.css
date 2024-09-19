@@ -1,0 +1,21 @@
+/**
+*
+* Home screen styles
+* @author - Faizal
+* @date   - 19 September 2024
+*
+***/
+.textfield {
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+.paper-container {
+    border-radius: 12px;
+    background-color: #f6f6f6;
+    margin: 20px 0;
+    padding: 20px;
+}
+.filter-container {
+    text-align: right;
+}
